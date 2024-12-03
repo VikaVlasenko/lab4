@@ -50,3 +50,6 @@
 - Реализация алгоритма Кастла-Питвея.
 - Визуализация сглаженных линий.
 
+  
+
+![lab4pypy](https://github.com/user-attachments/assets/2e1c9632-711e-4d24-8648-afabeb1947b8)
